@@ -1,0 +1,8 @@
+{
+  "name": "middle-man",
+  "version": "1.0.0",
+  "description": "MiddleMan is a http socket relay. It supports recording and data playback.",
+  "dependencies": {
+    "socket.io": "~0.9.3"
+  }
+}
